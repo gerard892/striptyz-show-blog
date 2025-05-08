@@ -21,4 +21,4 @@ Každá rozlučka má své kouzlo. Zatímco pánové ocení svůdnou atmosféru 
 
 ## Tip na závěr
 
-Pokud hledáte profesionální a spolehlivé [striptýzové vystoupení](https://www.agenturafox.cz/), doporučujeme navštívit web **[agenturafox.cz](https://www.agenturafox.cz/)**, kde si vyberete show přesně podle svého stylu a rozpočtu.
+Pokud hledáte profesionální a spolehlivé , doporučujeme navštívit web **[agenturafox.cz](https://www.agenturafox.cz/)**, kde si vyberete show přesně podle svého stylu a rozpočtu.
