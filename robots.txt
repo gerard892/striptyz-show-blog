@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gerard892.github.io/stript-z-show-blog/sitemap.xml

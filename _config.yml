@@ -1,0 +1,27 @@
+title: "Striptýz Show Blog"
+description: "Blog o striptýzových show a zážitcích"
+url: "https://gerard892.github.io"
+baseurl: "/stript-z-show-blog"
+
+permalink: /:title/
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_site_verification: ""
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Gerard"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
