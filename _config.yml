@@ -1,5 +1,5 @@
 title: "Striptýz Show Blog"
-description: "Blog o striptýzových show a zážitcích"
+description: "Blog o striptýzových show, večírcích a nezapomenutelných zážitcích"
 url: "https://gerard892.github.io"
 baseurl: "/stript-z-show-blog"
 
@@ -11,7 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-google_site_verification: ""
+google_site_verification: "" # můžeš nechat prázdné, pokud používáš ověření přes soubor
 
 defaults:
   - scope:
@@ -25,3 +25,4 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - sitemap.xml  # přidej, pokud jsi dříve používal ruční sitemapu
