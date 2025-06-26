@@ -1,7 +1,6 @@
 title: "Striptýz Show Blog"
 description: "Blog o striptýzových show, večírcích a nezapomenutelných zážitcích"
-url: "https://gerard892.github.io"
-baseurl: "/stript-z-show-blog"
+url: "http://striptiz-show.sk/"
 
 permalink: /:title/
 markdown: kramdown
