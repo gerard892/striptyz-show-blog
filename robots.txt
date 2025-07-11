@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://striptiz-show.sk/sitemap.xml
+Sitemap: https://striptyz-show-blog.cz/sitemap.xml
