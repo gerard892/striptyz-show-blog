@@ -1,4 +1,3 @@
----
 title: "Prověřená striptýzová agentura pro nezapomenutelné večírky v Pardubicích"
 description: "Hledáte profesionální striptýzovou show v Pardubicích? S námi získáte ověřené striptérky a striptéry pro rozlučky, oslavy i firemní večírky. Diskrétně, stylově a na úrovni."
 permalink: /striptyzova-agentura-pardubice/
