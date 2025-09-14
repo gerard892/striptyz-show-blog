@@ -4,7 +4,7 @@ description: "Looking for a private and unforgettable experience in Prague? Disc
 keywords: [striptease Prague, limousine show, private party]
 permalink: /striptease-show-prague-limousine/
 author: "Striptyz Show"
-lang: "cs"
+lang: "en"
 ---
 
 # Striptease Show in Prague Limousines – A Night to Remember
