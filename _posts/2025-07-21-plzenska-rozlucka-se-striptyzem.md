@@ -1,8 +1,7 @@
 ---
 title: "Sexy striptýz v Plzni – Objednejte show, která ozvláštní vaši párty"
 description: "Chcete si užít nezapomenutelný večer v Plzni? Objednejte sexy striptýz od profesionálů a dopřejte své akci vzrušení, eleganci i zábavu."
-categories: [striptýz, Plzeň, show, párty]
-tags: [striptýz Plzeň, sexy show, erotická zábava]
+keywords: [striptýz Plzeň, sexy show, erotická zábava]
 permalink: /plzenska-rozlucka-se-striptyzem/
 author: "Striptyz Show"
 lang: "cs"
