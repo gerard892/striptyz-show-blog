@@ -1,6 +1,9 @@
 ---
 title: "Rozlučka se svobodou: pánská vs dámská show"
 description: "Porovnání pánských a dámských rozluček se svobodou. Která show je žhavější? Inspirujte se tipy na nezapomenutelný večer se striptýzem."
+permalink: /rozlucka-se-svobodou-panska-vs-damska-show/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Rozlučka se svobodou: pánská vs dámská show
