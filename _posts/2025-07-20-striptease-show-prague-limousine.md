@@ -1,9 +1,10 @@
 ---
 title: "Striptease Show in Prague Limousines – A Night to Remember"
 description: "Looking for a private and unforgettable experience in Prague? Discover professional strip shows in luxurious limousines – perfect for stag parties and celebrations."
-date: 2025-07-20
-categories: [striptease, Prague, limousine, party]
-tags: [striptease Prague, limousine show, private party]
+keywords: [striptease Prague, limousine show, private party]
+permalink: /striptease-show-prague-limousine/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Striptease Show in Prague Limousines – A Night to Remember
