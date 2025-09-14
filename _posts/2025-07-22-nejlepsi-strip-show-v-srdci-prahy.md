@@ -2,6 +2,8 @@
 title: "Nejlepší Strip Show v Srdci Prahy"
 description: "Objevte top strip show v centru Prahy – profesionální vystoupení, luxusní atmosféra a nezapomenutelný večer s těmi nejlepšími performery ve městě."
 permalink: /nejlepsi-strip-show-v-srdci-prahy/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Nejlepší Strip Show v Srdci Prahy
