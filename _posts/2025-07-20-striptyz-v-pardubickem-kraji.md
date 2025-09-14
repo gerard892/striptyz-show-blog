@@ -1,10 +1,10 @@
 ---
 title: "Striptýz v Pardubickém kraji – Nejžhavější show pro každou příležitost"
 description: "Hledáte smyslný zážitek v Pardubicích? Objednejte si profesionální striptýz na oslavu, večírek nebo rozlučku. Nejžhavější show v kraji."
-date: 2025-07-20
-categories: [striptýz, Pardubice, večírky, show]
-tags: [striptýz Pardubice, erotická show, večírek]
+keywords: [striptýz Pardubice, erotická show, večírek]
 permalink: /striptyz-v-pardubickem-kraji/
+author: "Striptyz Show"
+lang: "cs"
 ---
 
 # Striptýz v Pardubickém kraji – Nejžhavější show pro každou příležitost
