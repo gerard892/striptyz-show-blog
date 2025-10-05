@@ -2,6 +2,7 @@
 title: "Skvělá a úžasná strip show v Brně"
 description: "Strip show v Brně, kterou si zapamatujete. Profesionální tanečníci a tanečnice, skvělá atmosféra a možnost objednat show na míru."
 date: 2025-10-05
+permalink: /skvela-a-uzasna-strip-show-v-brne/
 categories: [Brno, strip show, párty]
 tags: [strip show Brno, striptýz Brno, rozlučka Brno]
 ---
@@ -41,3 +42,4 @@ Cena vystoupení se liší podle délky, stylu a místa. Základní program zač
 
 **Skvělá a úžasná strip show v Brně** přinese do vaší akce vzrušení, eleganci a profesionální zábavu.  
 Pro více informací a rezervace navštivte [striptyz v Brně](https://www.striptyz-brno.cz/) a připravte se na show, kterou si budete dlouho pamatovat.
+
