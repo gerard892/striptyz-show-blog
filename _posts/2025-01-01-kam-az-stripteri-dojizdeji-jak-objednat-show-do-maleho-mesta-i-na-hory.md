@@ -1,10 +1,16 @@
 ---
 layout: post
-title: "Kam až striptéři dojíždějí? Jak si objednat show do malého města i na hory"
-description: "Objednat striptýzovou show do malého města, vesnice nebo na hory není problém. Zjistěte, kam až striptéři dojíždějí a jak rezervovat vystoupení i mimo velká města."
-tags: [striptyz, stripteri, soukroma-show, rozlucka-se-svobodou, privatni-akce]
+title: "Kam az stripteri dojizdeji? Jak si objednat show do maleho mesta i na hory"
+description: "Jak objednat striptyzovou show do maleho mesta, na chatu nebo na hory. Kam stripteri dojizdeji a jak rezervace probiha."
+tags:
+  - striptyz
+  - stripteri
+  - soukroma-show
+  - rozlucka-se-svobodou
+  - privatni-akce
 permalink: /kam-az-stripteri-dojizdeji-objednani-show/
-date: 2025-01-01
+---
+
 
 # Kam až striptéři dojíždějí? Jak si objednat show do malého města i na hory
 
